@@ -116,11 +116,11 @@
         phase-name="pretrans"><source>Type summary here</source><seg-source><mrk
             mtype="seg"
             mid="1">Type summary here</mrk></seg-source><target
-          state="needs-translation"><mrk
+          state="translated"><mrk
             mtype="seg"
             mid="1"
-            MadCap:segmentStatus="Untranslated"
-            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="0">conflict second</mrk></target></trans-unit><trans-unit
         id="7"
         restype="x-xml-h2"
         phase-name="pretrans"><source>Full Description:</source><seg-source><mrk
